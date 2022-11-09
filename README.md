@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou a Melissa Lopes
+- 👋 Olá, eu sou a Melissa
 - 👀 Eu tenho interesse em seguir carreira na área de tecnologia como programadora!
 - 🌱 Atualmente estou aprendendo React, PHP e Python.
 
