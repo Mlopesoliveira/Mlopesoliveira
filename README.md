@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a Melissa e tenho 17 anos
-- 👀 Eu tenho interesse em seguir carreira na área de tecnologia como programadora!
+- 👀 Eu tenho interesse em seguir carreira na área de tecnologia como desenvolvedora!
 - 🌱 Atualmente estou aprendendo React, PHP e Python.
 
 <!---
