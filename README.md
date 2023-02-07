@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a Melissa e tenho 17 anos
 - 👀 Eu tenho interesse em seguir carreira na área de tecnologia como desenvolvedora!
-- 🌱 Atualmente estou aprendendo React, PHP e Python.
+- 🌱 Atualmente estou aprendendo Python.
 
 <!---
 Mlopesoliveira/Mlopesoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
