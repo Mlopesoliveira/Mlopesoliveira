@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a Melissa e tenho 17 anos
-- :) Sou estudante do terceiro ano do ensino médio integrado ao curso técnico de Informática para Internet na ETEC Profª Maria Cristina Medeiros.
+- &#128516 Sou estudante do terceiro ano do ensino médio integrado ao curso técnico de Informática para Internet na ETEC Profª Maria Cristina Medeiros.
 - 👀 Eu tenho interesse em seguir carreira na área de tecnologia como desenvolvedora!
 - 🌱 Atualmente estou aprendendo Python.
 
