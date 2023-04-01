@@ -1,10 +1,10 @@
 # Seja bem-vindo ao meu perfil do GitHub
-- 👋 Eu sou a Melissa e tenho 17 anos.
-- 💻 Sou estudante do terceiro ano do ensino médio integrado ao curso técnico de Informática para Internet na ETEC Profª Maria Cristina Medeiros.
-- 👀 Meu objetivo é seguir carreira como desenvolvedora Backend!
-- 🤓 Possuo conhecimento em Portugol!
-- 👨‍💻 Atualmente estou aprendendo Python.
-- 📫 Contate-me: melissa.lopes.oliveiramm@gmail.com;
+- 👋 Eu sou a Melissa e tenho 17 anos;
+- 💻 Sou estudante do terceiro ano do ensino médio integrado ao curso técnico de Informática para Internet na ETEC Profª Maria Cristina Medeiros;
+- 👀 Meu objetivo é seguir carreira como desenvolvedora Backend;
+- 🤓 Possuo conhecimento em Portugol;
+- 👨‍💻 Atualmente estou aprendendo Python;
+- 📫 Contate-me: melissa.lopes.oliveiramm@gmail.com.
 
 
 
