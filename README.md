@@ -3,7 +3,7 @@
 - 💻 Sou estudante do terceiro ano do ensino médio integrado ao curso técnico de Informática para Internet na ETEC Profª Maria Cristina Medeiros;
 - 👀 Meu objetivo é seguir carreira como desenvolvedora Backend;
 - 🤓 Possuo conhecimento em HTML e Portugol;
-- 👨‍💻 Atualmente estou aprendendo Python e JavaScript;
+- 👨‍💻 Atualmente estou estudando Python e JavaScript;
 - 📫 Contate-me: melissa.lopes.oliveiramm@gmail.com.
 
 
