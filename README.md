@@ -4,7 +4,9 @@
 - 👀 Meu objetivo é seguir carreira como desenvolvedora Backend;
 - 🤓 Possuo conhecimento em HTML e Portugol;
 - 👨‍💻 Atualmente estou estudando Python e JavaScript;
-- 📫 Contate-me: melissa.lopes.oliveiramm@gmail.com.
+- 📫 Contate-me: 
+- Email: melissa.lopes.oliveiramm@gmail.com
+- Linkedin: 
 
 
 
